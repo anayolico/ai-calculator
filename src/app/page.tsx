@@ -204,7 +204,7 @@ export default function Home() {
         >
           <p>Built with React, Tailwind CSS, and Framer Motion ✨</p>
           <p className="mt-1">Powered by AI natural language processing 🤖</p>
-          <p>Built By Anayolico!!  No:+234 7083030637 No:+234 9165587681 </p>
+          <p>Built By Anayolico!!  No:+234 7083030637</p>
         </motion.footer>
       </div>
     </div>
