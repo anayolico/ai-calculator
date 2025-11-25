@@ -1,9 +1,4 @@
 {
-  "build": {
-    "env": {},
-    "commands": {
-      "build": "next build"
-    },
-    "outputDirectory": ".next"
-  }
+  "version": 3,
+  "env": {}
 }
