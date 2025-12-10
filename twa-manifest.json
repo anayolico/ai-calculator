@@ -14,10 +14,11 @@
   "enableNotifications": true,
   "startUrl": "/",
   "iconUrl": "https://ai-calculator-psi.vercel.app/icon-512.png",
+  "maskableIconUrl": "https://ai-calculator-psi.vercel.app/icon-maskable-512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "C:\\Users\\User\\Downloads\\my App\\ai-calculator\\android.keystore",
-    "alias": "aicalc-key"
+    "alias": "android"
   },
   "appVersionName": "1",
   "appVersionCode": 1,
